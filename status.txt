@@ -1,1 +1,3 @@
 this used for skipping staging area -
+also used for to make tracked file untracked.:checked
+all things are completed as part of practice.
