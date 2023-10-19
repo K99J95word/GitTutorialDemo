@@ -1,2 +1,3 @@
 I want to know the differnce between git diff
 still doing
+completed diff.
